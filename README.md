@@ -20,7 +20,7 @@ Esses testes permitem identificar gargalos de performance e auxiliar na otimiza�
 
 - [JavaScript (ES6+)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) → Linguagem para os scripts de teste.  
 - [k6](https://k6.io/) → Ferramenta open-source para execução de testes de carga e performance.  
-- Variáveis de ambiente → Configuração dinâmica do ambiente de teste (ex: 'BASE_URL').  
+- Variáveis de ambiente → Configuração dinâmica do ambiente de teste (ex: `BASE_URL`).  
 
 ---
 

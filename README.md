@@ -1,4 +1,4 @@
-# Banco API - Testes de Performance
+# Banco API - Testes de Performance com k6
 
 Repositório contendo scripts de **testes de performance** para a aplicação [Banco API](https://github.com/juliodelimas/banco-api), desenvolvidos em **JavaScript** utilizando o **[k6](https://k6.io/)**.
 

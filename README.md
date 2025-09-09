@@ -96,4 +96,3 @@ Após a execução, o relatório estará salvo como `html-report.html`.
 
 📌 Agora você tem um ambiente configurado para rodar diferentes cenários de teste de performance da **Banco API**.
 
----
